@@ -1,4 +1,8 @@
 @font-face {
   font-family: 'Asanonokyujitu';
-  src: url('https://github.com/Ruhamoto/ruhamoto-ruhamoto-very-very-some-fonts/raw/refs/heads/main/Asanonokyujitu.ttf') format('truetype');
+  src: url('https://github.com/Ruhamoto/ruhamoto-ruhamoto-very-very-some-fonts/blob/6cae76940598bc132a35c0af9e5233a3894b72ca/Asanonokyujitu.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Bog';
+  src: url('https://github.com/Ruhamoto/ruhamoto-ruhamoto-very-very-some-fonts/blob/b71ab14d615d4ba62141cf0d4b01bbe8079cdb99/Bog.otf') format('opentype');
 }
