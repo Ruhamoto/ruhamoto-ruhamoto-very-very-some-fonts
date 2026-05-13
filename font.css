@@ -206,5 +206,7 @@
     font-family: 'Meiryo';
     src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/Meiryo-01.ttf') format('truetype');
 }
-
-
+@font-face {
+    font-family: 'Target';
+    src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/UDDigiKyokashoN-R.woff') format('woff');
+}
