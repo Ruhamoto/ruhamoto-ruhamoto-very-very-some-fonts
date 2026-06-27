@@ -207,6 +207,10 @@
     src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/Meiryo-01.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'Target';
+    font-family: 'Kyokashyo';
     src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/UDDigiKyokashoN-R.woff') format('woff');
+}
+@font-face {
+    font-family: 'Target';
+    src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/ヒラギノ角ゴ Pro W3.otf') format('opentype');
 }
