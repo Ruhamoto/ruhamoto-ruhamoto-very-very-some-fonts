@@ -43,6 +43,10 @@
     src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/HigureGothic-Medium.woff') format('woff');
 }
 @font-face {
+    font-family: 'Heiseifont';
+    src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/Heiseifont.otf') format('opentype');
+}
+@font-face {
     font-family: 'Kokutets_poi-toukan';
     src: url('https://ruhamoto.github.io/ruhamoto-ruhamoto-very-very-some-fonts/Kokutets_poi-toukan.ttf') format('truetype');
 }
